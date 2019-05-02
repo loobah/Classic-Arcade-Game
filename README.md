@@ -19,9 +19,11 @@ There are two options to get started!
 To move the player, use the arrows:
 
 ![arrows](http://www.loobah.com/udacity/classicarcade/images/arrows.png)
+
 (They're usually located at the bottom-right corner of your keyboard!)
 
-Watchout!
+
+Now watchout!
 The enemies move at varying speeds on the paved block portion of the game board.
 
 Once the player collides with any enemy, the game is reset and the player moves back to the starting square. Time to improve!
