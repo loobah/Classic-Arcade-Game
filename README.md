@@ -35,6 +35,6 @@ Practice your skills!!!
 
 ## Contributing
 
-This game was developed entirely with HTML and JavaScript.
+This game was developed entirely with CSS, HTML and JavaScript.
 
 Felipe Fragoso - 02 may 2019
