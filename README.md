@@ -24,11 +24,16 @@ To move the player, use the arrows:
 
 
 Now watchout!
+
 The enemies move at varying speeds on the paved block portion of the game board.
 
-Once the player collides with any enemy, the game is reset and the player moves back to the starting square. Time to improve!
+Once the player collides with any enemy, the game is reset and the player moves back to the starting square.
+
+Time to improve!
+
 
 Once the player reaches the water, the game is won!
+
 Practice your skills!!! 
 
 
