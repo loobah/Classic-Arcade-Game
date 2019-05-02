@@ -55,7 +55,7 @@ class Hero {
     // Check collision with enemies based on X and Y coords
     for(let enemy of allEnemies) {
       if (this.y === enemy.y &&
-         (enemy.x + enemy.step/2 > this.x &&
+         (enemy.x + enemy.step/1.4 > this.x &&
           enemy.x < this.x + this.step/2)) {
         this.reset();
       }
