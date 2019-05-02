@@ -11,7 +11,7 @@ There are two options to get started!
 
 **1**. Open the file index.html at your Browser.
 
-**2**. Play at this link [Classic Arcade](http://www.loobah.com/udacity/classicarcade){:target="_blank"}
+**2**. Play at this link [Classic Arcade](http://www.loobah.com/udacity/classicarcade).
 
 
 
