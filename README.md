@@ -11,7 +11,7 @@ There are two options to get started!
 
 **1**. Open the file index.html at your Browser.
 
-**2**. Play at this link: (http://www.loobah.com/udacity/classicarcade) 
+**2**. Play at this [link!](http://www.loobah.com/udacity/classicarcade)
 
 
 ### How to play the game
@@ -19,8 +19,7 @@ There are two options to get started!
 To move the player, use the arrows:
 
 ![arrows](http://www.loobah.com/udacity/classicarcade/images/arrows.png)
-
-Usually located at the bottom-right corner of your keyboard!
+(They're usually located at the bottom-right corner of your keyboard!)
 
 Watchout!
 The enemies move at varying speeds on the paved block portion of the game board.
