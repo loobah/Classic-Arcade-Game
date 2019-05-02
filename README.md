@@ -7,19 +7,27 @@
 
 ## Instructions
 
+There are two options to get started!
+
 ### How to play the game
 
-The player can move left, right, up and down.
+To move the player, use the arrows:
 
+[arrows](http://www.loobah.com/udacity/classicarcade/images/arrows.png)
+
+Usually located at the bottom-right corner of your keyboard!
+
+Watchout!
 The enemies move at varying speeds on the paved block portion of the game board.
 
-Once a the player collides with an enemy, the game is reset and the player moves back to the starting square.
+Once the player collides with any enemy, the game is reset and the player moves back to the starting square. Time to improve!
 
-Once the player reaches the water, the game is won! Practice your skills!!!
+Once the player reaches the water, the game is won!
+Practice your skills!!! 
 
 
 ## Contributing
 
 This game was developed entirely with HTML and JavaScript.
 
-Felipe Fragoso - 01 may 2019
+Felipe Fragoso - 02 may 2019
