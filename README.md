@@ -7,6 +7,8 @@
 
 ## Instructions
 
+### Install
+
 There are two options to get started!
 
 **1**. Open the file index.html at your Browser.
