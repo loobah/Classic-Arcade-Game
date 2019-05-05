@@ -1,4 +1,5 @@
 # Classic Arcade Game Clone Project
+Udacity Javascript Game Development 2
 
 ## Table of Contents
 
