@@ -13,7 +13,7 @@ There are two options to get started!
 
 **1**. Open the file index.html at your Browser.
 
-**2**. Play at this link [Classic Arcade](http://www.loobah.com/udacity/classicarcade).
+**2**. Play online, clicking at this link [Classic Arcade](http://www.loobah.com/udacity/classicarcade).
 
 ### How to play the game
 
